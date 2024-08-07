@@ -20,7 +20,7 @@ npm i cbu-validator
 ### Ejemplo de uso
 
 ```typescript
-import { isValidCbu, getBankId, getBankName } from './cbu-validator';
+import { isValidCbu, getBankId, getBankName } from 'cbu-validator';
 
 const cbu = '1234567801234567890123';
 
