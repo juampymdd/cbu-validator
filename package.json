@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["cbu", "validator", "bank", "argentina"],
   "author": "<Juan Pablo Maddoni>(https://github.com/juampymdd)",
   "license": "MIT",
   "description": "A simple library to validate CBU (Clave Bancaria Uniforme) numbers"

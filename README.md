@@ -5,7 +5,7 @@ Este proyecto permite validar los CBU (Clave Bancaria Uniforme) en Argentina. Es
 ## Instalación
 
 ```sh
-npm install cbu-validator
+npm i cbu-validator
 ```
 
 ## Uso
