@@ -1,0 +1,13 @@
+{
+  "name": "cbu-validator",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "<Juan Pablo Maddoni>(https://github.com/juampymdd)",
+  "license": "MIT",
+  "description": "A simple library to validate CBU (Clave Bancaria Uniforme) numbers"
+}

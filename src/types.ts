@@ -1,0 +1,1 @@
+export interface bank{ [key: string]: string }
